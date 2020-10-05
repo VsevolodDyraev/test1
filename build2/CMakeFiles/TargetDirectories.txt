@@ -1,0 +1,6 @@
+I:/c++/lab/build2/CMakeFiles/ALL_BUILD.dir
+I:/c++/lab/build2/CMakeFiles/ZERO_CHECK.dir
+I:/c++/lab/build2/src/CMakeFiles/set.dir
+I:/c++/lab/build2/samples/CMakeFiles/sample_prime_numbers.dir
+I:/c++/lab/build2/gtest/CMakeFiles/gtest.dir
+I:/c++/lab/build2/test/CMakeFiles/test_set.dir

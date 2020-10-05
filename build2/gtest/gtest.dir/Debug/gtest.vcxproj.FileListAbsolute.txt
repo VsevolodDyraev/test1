@@ -1,0 +1,3 @@
+I:\c++\lab\build2\lib\Debug\gtest.pdb
+I:\c++\lab\build2\gtest\gtest.dir\Debug\gtest.pdb
+I:\c++\lab\Новая папка\build2\gtest\gtest.dir\Debug\gtest.pdb
